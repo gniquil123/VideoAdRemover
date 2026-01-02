@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <LastMoviePath>此处选择视频文件</LastMoviePath>
+  <AdStartTime>
+    <Hour>0</Hour>
+    <Minute>1</Minute>
+    <Second>12</Second>
+  </AdStartTime>
+  <AdEndTime>
+    <Hour>0</Hour>
+    <Minute>1</Minute>
+    <Second>27</Second>
+  </AdEndTime>
+  <DarkTheme>True</DarkTheme>
+  <ScanIntervalSec>1</ScanIntervalSec>
+</Config>
