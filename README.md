@@ -2,7 +2,8 @@
 
 一个基于C#和OpenCvSharp开发的视频广告自动检测与移除工具，支持手动和自动两种广告检测方式。
 
-![Uploading a747275b3670cb3ad98faa133fb66cb5.png…]()
+<img width="1032" height="1125" alt="a747275b3670cb3ad98faa133fb66cb5" src="https://github.com/user-attachments/assets/a3123f19-60d5-4470-b0af-7d375c560a57" />
+
 
 ## 功能特性
 
